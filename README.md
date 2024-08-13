@@ -9,4 +9,4 @@ Includes:
 -> Asset loading from common and history files
 -> UI, Camera Control, Map Interaction and Pulse/Tick control
 
->>>>>>>>>> WIP <<<<<<<<<<<<
+------------------- WIP --------------------------------------
